@@ -2,12 +2,12 @@
 
 Special thanks to the participators:
 
-Ankita Tripathy
-Fabrizio Petrozzi
-Muhammad Hammaz
-Priyanka Jammu
-Sai Praneetha Sigharam
-Subham Mohanty
+Ankita Tripathy, 
+Fabrizio Petrozzi, 
+Muhammad Hammaz, 
+Priyanka Jammu, 
+Sai Praneetha Sigharam, 
+Subham Mohanty, 
 
 
 
@@ -211,4 +211,4 @@ https://github.com/rahulbordoloi/Predict-Crime-Rate-in-Chicago/blob/master/Predi
 https://www.kaggle.com/code/datajack1234/predicting-crime-rate-in-chicago-using-prophet
 
 https://www.kaggle.com/code/threadid/chicago-crimes-regression-neural-network
-![image](https://github.com/user-attachments/assets/7a12980a-5669-4c23-9b4d-f15b0985f98d)
+
