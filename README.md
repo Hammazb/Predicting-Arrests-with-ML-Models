@@ -1,13 +1,13 @@
 # Predicting-Arrests-with-ML-Models
 
-Special thanks to the participators:
+Special thanks to the participants:
 
 Ankita Tripathy, 
 Fabrizio Petrozzi, 
 Muhammad Hammaz, 
 Priyanka Jammu, 
 Sai Praneetha Sigharam, 
-Subham Mohanty, 
+Subham Mohanty.
 
 
 
